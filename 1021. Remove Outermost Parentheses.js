@@ -7,11 +7,9 @@ var removeOuterParentheses = function (S) {
     let ans = "";
     for (let s of S) {
         if (s == "(") {
-            c++;
-            if (c > 1) ans += s;
+            if (++c > 1) ans += s;
         } else {
-            c--;
-            if (c > 0) ans += s;
+            if (--c > 0) ans += s;
         }
     }
     return ans;

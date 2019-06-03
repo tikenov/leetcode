@@ -4,10 +4,11 @@
  */
 var longestPalindrome = function (s) {
     if (s.length == 0) return "";
-    let k = 0;
-    let max = 1;
-    let flag = true;
+    let k = 0;  // palindrome center index  
+    let max = 1;   // max length of palindrome
+    let flag = true;  // true -> odd case, even case 
     for (let i = 0; i < s.length; i++) {
+        // for odd cases, ex:"aba"
         let j = 1;
         while ((i + j) <= s.length - 1 && (i - j) >= 0 && s[i + j] == s[i - j]) {
             if (max < j * 2 + 1) {
@@ -18,6 +19,7 @@ var longestPalindrome = function (s) {
             j++;
         }
         j = 1;
+        // for even cases, ex: "abba"
         while ((i + j) <= s.length - 1 && (i - j + 1) >= 0 && s[i + j] == s[i - j + 1]) {
             if (max < j * 2) {
                 max = j * 2;

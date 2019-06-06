@@ -3,7 +3,6 @@
  * @param {number} n
  * @return {string}
  */
-
 var convert = function (s, n) {
     if (n == 1) return s;
     let ans = "";

@@ -10,7 +10,7 @@ var merge = function (nums1, m, nums2, n) {
     let i = 0;
     let j = 0;
 
-    //insert element from second array if it is smaller
+    //insert elements from second array if smaller
     while (i < m + n && j < n) {
         if (nums2[j] <= nums1[i]) {
             nums1.splice(i, 0, nums2[j++]);

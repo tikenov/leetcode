@@ -1,0 +1,65 @@
+[33mcommit f7e214f4f38774e15384b8ba8e1948ca8d41245b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Thu Jun 6 01:41:27 2019 +0600
+
+    /**
+
+[33mcommit 9c9e0829babee1bb9b5d0ccfcf04ae7d22ef8943[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Wed Jun 5 16:28:19 2019 +0600
+
+    Runtime: 52 ms, faster than 96.72%
+
+[33mcommit 4c0e14dbc691c92bdbb66bef900c9583dee59c04[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Mon Jun 3 18:22:14 2019 +0600
+
+    comments added
+
+[33mcommit 8cf35d2cd7e7f15f76d54fe64cba5633ce23013c[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Mon Jun 3 16:34:22 2019 +0600
+
+    Runtime: 76 ms, faster than 92.14%
+
+[33mcommit 1590f974f134243aad60e2563d46d5a320a77d95[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Mon May 27 03:54:45 2019 +0600
+
+    Runtime: 40 ms, faster than 100.00%
+
+[33mcommit 77e680cba137ff9fe7275c329112fa07e7e1170c[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Fri May 24 14:43:57 2019 +0600
+
+    Runtime: 84 ms, faster than 98.08%
+
+[33mcommit a2022b5e34318d366459c93d748eff39fb1274ee[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Thu May 23 06:24:25 2019 +0600
+
+    Runtime 248ms / beats 80.15%
+
+[33mcommit 2ef5ee77f347136aa78c20af7852fb1d402fc3a1[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Wed May 22 03:53:51 2019 +0600
+
+    little fix
+
+[33mcommit 5c24a61e380d30ade54808b48127ab9a119b3704[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Wed May 22 03:52:11 2019 +0600
+
+    1021 - 56 ms / beats 98.53%
+
+[33mcommit bbb725d9efe0141ecdd668bddda9f1c3837ef482[m
+Author: tikenov <azamatkz90@gmail.com>
+Date:   Wed May 22 03:39:00 2019 +0600
+
+    925. Runtime: 48 ms/bets 99.58%
+
+[33mcommit 2facfcc10779e1314acb763e73e3f21e506ff3db[m
+Author: Azamat <36967550+tikenov@users.noreply.github.com>
+Date:   Wed May 22 03:31:40 2019 +0600
+
+    Initial commit
